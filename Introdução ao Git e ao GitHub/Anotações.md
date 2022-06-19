@@ -2,6 +2,8 @@
 
 :large_blue_circle: O GitBash é um terminal extendido para otimizar o uso do Git.
 
+:black_circle:Link para slides: Clique [AQUI](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view?usp=sharing)
+
 
 
 ## Comandos Git Básicos
@@ -127,4 +129,5 @@ Exemplo:
 
 #### Para ver comandos intermediários e avançados acesse o link da pesquisa:
 
-:chart:https://www.codigofonte.com.br/artigos/top-25-comandos-do-git
+:chart: Clique [AQUI](https://www.codigofonte.com.br/artigos/top-25-comandos-do-git)
+
