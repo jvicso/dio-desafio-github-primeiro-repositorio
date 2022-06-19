@@ -1,4 +1,4 @@
-### :black_circle:Link para download do Git: https://git-scm.com/downloads
+### :black_circle:Link para download do Git: Clique [AQUI](https://git-scm.com/downloads)
 
 :large_blue_circle: O GitBash é um terminal extendido para otimizar o uso do Git.
 
